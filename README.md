@@ -1,1 +1,3 @@
-# AUTHORS
+# AUTHORS:
+- Daniel Jerbi
+- Netanel Michel
